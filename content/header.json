@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -10,7 +10,7 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
+        "title": "",
         "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
@@ -18,10 +18,14 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/eletronicoscelulares?BILHARES E ACESSÓRIOS"
+    ],
     "random": 6,
     "full_width": false
   },
   "desktop_megamenu": false,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
